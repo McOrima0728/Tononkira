@@ -80,6 +80,212 @@
          "tonalite":""
       },
       {
+         "artiste":"Groupe Amyray Singers",
+         "auteur":"",
+         "compositeur":"",
+         "id":"GAS_1",
+         "titre":"Kely sisa",
+         "tonalite":"",
+         "paroles":[
+            {
+               "couplet":1,
+               "lyrics":"Kely sisa ny andro, 'zay mbola hitoerantsika ety\nHialana sy hilaozana 'zay rehetra mety ho lo ;\nF'efa vita voatra any 'lay fonenantsoa natao\nHo antsika voavonjy, tena malalany."
+            },
+            {
+               "refrain":1,
+               "lyrics":"'Ndao, 'ndao miomàna, raha te hody ianao\nF'efa vonona any ilay Tsara indrindra ho antsika ;\nTanàna kanto loatra izay tsy mbola mby na tao an-tsaina,\nNo efa nomanin'i Jesosy ho ahy sy ho anao ;\n'Ndao hialana ny eto, ô mivonòna dieny izao ;\nF'efa mby ho avy Ilay Jeso, 'zay nandrasana ela be ;\nKa sao dia mantsy ianao ho tara ety, variana, be fisalasala ;\nVoafetra ihany anie ny andro iandrasany."
+            },
+            {
+               "couplet":2,
+               "lyrics":"Kely sisa ny andro, 'zay mbola iainantsika ety\nHo rava sy ho poitika izao hita rehetra izao ;\nIreo fahoriana sy 'zay mety niaretanao :\nHo soloina fahasambarana mandrakizay."
+            },
+            {
+               "refrain":2,
+               "lyrics":"'Ndao, 'ndao miomàna, raha te hody ianao\nF'efa vonona any ilay Tsara indrindra ho antsika ;\nTanàna kanto loatra izay tsy mbola mby na tao an-tsaina,\nNo efa nomanin'i Jesosy ho ahy sy ho anao ;\n'Ndao hialana ny eto, ô mivonòna dieny izao ;\nF'efa mby ho avy Ilay Jeso, 'zay nandrasana ela be ;\nKa sao dia mantsy ianao ho tara ety, variana, be fisalasala ;\nVoafetra ihany anie ny andro iandrasany."
+            },
+            {
+               "bridge":1,
+               "lyrics":"Ndao hialana ny eto, ô mivonòna dieny izao ;\nF'efa mby ho avy Ilay Jeso, 'zay nandrasana ela be ;\nKa sao dia mantsy ianao ho tara ety, variana, be fisalasala ;\nVoafetra ihany anie ny andro iandrasany.\n\nOoouuu...."
+            }
+         ]
+      },
+      {
+         "artiste":"Groupe Amyray Singers",
+         "auteur":"",
+         "compositeur":"",
+         "id":"GAS_2",
+         "titre":"Ny Lasako",
+         "tonalite":"",
+         "paroles":[
+            {
+               "couplet":1,
+               "lyrics":"Manenina ny lasako aho ry Tompo tsara ô,\n'Reo ditra sy hadalàna mangeja ahy fatratra ;\nMaloto e, diovy ! Sasao amin'ny rànao soa\nO, ovay, ovay mba ho vaovao."
+            },
+            {
+               "refrain":1,
+               "lyrics":"Maniry aho ry Ray malala ô\nHiverina Aminao indray ;\nKoa raiso re na meloka be\nHanao izay sitrakao."
+            },
+            {
+               "couplet":2,
+               "lyrics":"O, raha mba sitrakao ry Tompo be fitiavana ô\nOmeo Fanahy hendry aho hitari-dàlana ahy ;\nMalemy, omeo hery, tolory tànanao ;\nFa ho very aho raha hilaozanao."
+            },
+            {
+               "refrain":2,
+               "lyrics":"Maniry aho ry Ray malala ô\nHiverina Aminao indray ;\nKoa raiso re na meloka be\nHanao izay sitrakao."
+            },
+            {
+               "bridge":1,
+               "lyrics":"O, raiso re ry Ray malala ô,\n'Zao vavaka ataoko izao ;\nHenoy, valio, araho indrafo !\nOmeo ahy ny Fanahinao.\nOmeo ahy ny Fanahinao.\n\nOuouuuu... Ouuuu...\nOmeo ahy ny Fanahinao."
+            }
+         ]
+      },
+      {
+         "artiste":"Groupe Amyray Singers",
+         "auteur":"",
+         "compositeur":"",
+         "id":"GAS_3",
+         "titre":"Vavaka Mangina",
+         "tonalite":"",
+         "paroles":[
+            {
+               "couplet":1,
+               "lyrics":"Natao ho fantatrao re, ity hafatra ity !\nF'indraindray dia heverina fa ;\nIreo vavak'izay ataon'ny maro ihany\nNo henoin'ilay Tompo Tsitoha."
+            },
+            {
+               "refrain":1,
+               "lyrics":"Koa asaiko ianao androany, hamantatra fa izao :\nIriny koa raha mba misy vavaka ;\nMiainga avy ao am-ponao mangina."
+            },
+            {
+               "couplet":2,
+               "lyrics":"Ainan'ny fanahinao ny vavaka mangina ;\nEny, fa na dia irery aza ianao !\nLoary eo Aminy, izay mety tsy ho zaka ;\nF'Izy vonona ny hihaino anao."
+            },
+            {
+               "refrain":2,
+               "lyrics":"Koa asaiko ianao androany, hamantatra fa izao :\nIriny koa raha mba misy vavaka ;\nMiainga avy ao am-ponao mangina."
+            },
+            {
+               "bridge":1,
+               "lyrics":"Koa n'aiza n'aiza no hisy anao,\nMisy Sofina te handre ;\nMivavaha mangina, borahy Aminy\nEfa sasatr'Izy miandry anao ;\nMivavaha mangina, borahy Aminy\nF'efa vonon'Izy hihaino anao."
+            }
+         ]
+      },
+      {
+         "artiste":"Groupe Amyray Singers",
+         "auteur":"",
+         "compositeur":"",
+         "id":"GAS_4",
+         "titre":"Mihohoka",
+         "tonalite":"",
+         "paroles":[
+            {
+               "couplet":1,
+               "lyrics":"Eo anatrehan'ny Fahalebiazanao\nDia mahatsiaro ho tsinona aho Tompo ô ;\nMenamenatra aho, noho 'reo natao\nNanamavo ny Anaranao ;\nNefa nohon'ilay Hazo nijalianao\n'Zay tsy maintsy nihantonanao ;\nDia indro aho fa sahy\nNy hanatona Anao\nEo an-tseza fiandriananao."
+            },
+            {
+               "refrain":1,
+               "lyrics":"Koa dia mihohoka Aminao, Ray\nMiangavy sy mitalaho ;\nMba raiso na dia ho mpanompo\nRaha mba sitrakao !"
+            },
+            {
+               "couplet":2,
+               "lyrics":"Eo anatrehan'ny Fahamasinanao\nDia mahatsiaro ho tsinona aho Tompo ô ;\nMenatra Anao 'zahay noho 'reo ota hatrizay\nNanamavo ny hamasinanao ;\nSoa fa teo anefa ny Fahasoavanao\n'Zay nandrakotra ny henatray ;\nIndro izahay fa sahy\nNy hanatona Anao\nEo an-tseza fiandriananao."
+            },
+            {
+               "refrain":2,
+               "lyrics":"Koa dia mihohoka Aminao, Ray\nMiangavy sy mitalaho ;\nMba raiso na dia ho mpanompo\nRaha mba sitrakao !"
+            },
+            {
+               "bridge":1,
+               "lyrics":"Ô, raiso na dia ho mpanompo\nRaha mba sitrakao !\nRaha mba sitrakao !\n\nMihohoka Aminao,\nRaha mba sitrakao !\n\nMihohoka Aminao, Ray !\nRaha mba sitrakao !"
+            }
+         ]
+      },
+      {
+         "artiste":"Groupe Amyray Singers",
+         "auteur":"",
+         "compositeur":"",
+         "id":"GAS_5",
+         "titre":"Tsangambato",
+         "tonalite":"",
+         "paroles":[
+            {
+               "couplet":1,
+               "lyrics":"Tsangambato voalohany no naorina fahizay !\nTao Edena no natao mba ho fahatsiarovana\nNy asa famoronana nataon'Andriamanitra :\nNy Sabata no nataony anarany ;\nTsangambato fitahiana sady famantarana\nHo Aminy sy ho antsika olony ;"
+            },
+            {
+               "refrain":1,
+               "lyrics":"'Ndeha re mba hiara-higoka\nIreo fitahiana omeny,\nAmin'ny fitandremana 'lay Sabata nomeny ;\nDia ho hitanao izany tena fitsaharana,\nTiako io fa famantarana."
+            },
+            {
+               "couplet":2,
+               "lyrics":"Ilazao, ampianaro koa\nIreo hafa akaiky anao\nFa atsahatra avokoa ireo asa izay fanao ;\nFa natokana mba hiankohofana Aminy\n'Lay mpahary sy namorona ahy sy ianao ;\nFaniriany ny hitahy sy hanamasina anao\nMba ho ambinina tokoa hianao."
+            },
+            {
+               "refrain":2,
+               "lyrics":"'Ndeha re mba hiara-higoka\nIreo fitahiana omeny,\nAmin'ny fitandremana 'lay Sabata nomeny ;\nDia ho hitanao izany tena fitsaharana,\nTiako io fa famantarana."
+            },
+            {
+               "bridge":1,
+               "lyrics":"Dia ho hitanao izany tena fitsaharana,\nTiako io fa famantarana.\n\nTiako io fa famantarana.\nHamasino, mitsahara, tadidio fa Andro soa\nFitahiana tokoa 'zay Andro izay !"
+            }
+         ]
+      },
+      {
+         "artiste":"Groupe Amyray Singers",
+         "auteur":"",
+         "compositeur":"",
+         "id":"GAS_6",
+         "titre":"Ny Safidy",
+         "tonalite":"",
+         "paroles":[
+            {
+               "couplet":1,
+               "lyrics":"Ny safidy atao anio,\nAfaka ny hamaritra\nNy ho avy sy ny ampitso izay\nToa mbola takona ;\nKa dia mitombena,\nFidio 'zay mahasoa,\nF'izaho sy ny safidiko :\nHo an'i Jehovah izahay !"
+            },
+            {
+               "solo":1,
+               "lyrics":"Mety ho maro ireo tombotsoa ho verinao,\nRaha mbola eto an-tany, tany be fahavalo !\nMijoroa ka matokia hatramin'ny farany\nNa feno sakantsakana 'zay làlana aleha !"
+            },
+            {
+               "chorus":1,
+               "lyrics":"Satria tsisy hery hafa afaka hanakatona,\nNy varavarana mampifandray\nNy fanahinao sy ny an'Andriamanitra ivavahanao\nRaha tsy ianao sy ny safidinao."
+            },
+            {
+               "solo":2,
+               "lyrics":"Tsy ho azonao atao ny hanompo Tompo roa\nFa raiso ny safidy, dia tapaho ny hevitrao ;\nNy haren'ny tany ve sa ny an'ny lanitra\nNo anankinanao ny fo, koa fidio 'zay fidianao."
+            },
+            {
+               "chorus":2,
+               "lyrics":"Tsy ho Jesosy mihintsy no hanery anao ho tia Azy ;\nSatria Izy dia Fitiavana ;\nFiainana mandrakizay no efa nomaniny\nHo ahy sy ho anao koa\nRaha mba sitrakao."
+            }
+         ]
+      },
+      {
+         "artiste":"Groupe Shalom Band",
+         "auteur":"",
+         "compositeur":"",
+         "id":"GSB_1",
+         "titre":"Ampy Ahy",
+         "tonalite":"",
+         "paroles":[
+            {
+               "couplet":1,
+               "lyrics":"Rakotry ny haizina aho Tompo ô\nJamba ireo masoko\nToa tsy hahita izay lalan-kombàna\nFa voagejan'ireo filàna\nSoa fa teo Ilay tanam-pitia\nNisintona ahy mba tsy hania\nNanafaka ahy, namaha fatotra\nNy anaranao dia ampy ahy"
+            },
+            {
+               "refrain":1,
+               "lyrics":"Ampy ahy ny fitiavanao\nAmpy ahy ny fahasoavanao\nAmpy ahy ny famindraponao\nHery lehibe ho ahy Ianao\nFa na dia mbola ho lavitra aza ny dia (ooo)\nNa dia mideza aza ny ety (ooooo)\nDia mahatsiaro tsy ho irery izahay\nSatria efa Ianao no Mpiahy"
+            },
+            {
+               "couplet":2,
+               "lyrics":"Trotraky ny olana aho Tompo ô\nKivy ka mila hamoy fo\nIzay rehetra atao, tsy misy mahasoa\nAdin-tsaina no mameno ny loha\nSoa fa teo Ilay tanam-pitia\nNisintona ahy mba tsy hania\nNanafaka ahy, namaha fatotra\nNy anaranao dia ampy ahy"
+            },
+            {
+               "refrain":2,
+               "lyrics":"Ampy ahy ny fitiavanao\nAmpy ahy ny fahasoavanao\nAmpy ahy ny famindraponao\nHery lehibe ho ahy Ianao\nFa na dia mbola ho lavitra aza ny dia (ooo)\nNa dia mideza aza ny ety (ooooo)\nDia mahatsiaro tsy ho irery izahay\nSatria efa Ianao no Mpiahy"
+            }
+         ]
+      },
+      {
          "artiste":"Groupe Ny Shekinah",
          "auteur":"",
          "compositeur":"",
@@ -2428,32 +2634,6 @@
             }
          ],
          "titre":"Ray ô, Mamelà",
-         "tonalite":""
-      },
-      {
-         "artiste":"Groupe Shalom Band",
-         "auteur":"",
-         "compositeur":"",
-         "id":"GSB_1",
-         "paroles":[
-            {
-               "couplet":1,
-               "lyrics":"Kely sisa izao, dia hivalona hatreo\nIty tontolo ity ho fongana ka hisolo vaovao\nTsy hotsaroina akory, ireo ady nampitoreo\nFa ho adino tokoa, izay loza manjo ka ho toy ny tsy teo"
-            },
-            {
-               "lyrics":"Ho avy ny Tompo, tsy ho ela intsony\nHaka ireo izay nanompo azy , nde hiakatra ary\nTsy hotsaroina akory, ireo ady nampitoreo\nFa ho adino tokoa, izay loza manjo ka ho toy ny tsy teo",
-               "refrain":1
-            },
-            {
-               "couplet":2,
-               "lyrics":"'Reo famantarana , dia miseho avokoa\nToa milaza fa mila miambina isika fa efa akaiky izy\nMoa vonona ve, ny hitsena Azy Ianao\nAza varimbariana fa ho tampoka indrindra ny fiaviany"
-            },
-            {
-               "lyrics":"Ho avy ny Tompo, tsy ho ela intsony\nHaka ireo izay nanompo azy , nde hiakatra ary\nMoa vonona ve, ny hitsena Azy Ianao\nAza varimbariana fa ho tampoka indrindra ny fiaviany",
-               "refrain":2
-            }
-         ],
-         "titre":"Feon'ny Tompo",
          "tonalite":""
       },
       {
