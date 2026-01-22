@@ -1879,6 +1879,54 @@
          "tonalite":""
       },
       {
+  "artiste": "Ny Salamo",
+  "auteur": "",
+  "compositeur": "",
+  "id": "NYS_2",
+  "titre": "Tsapanao ve namako",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Mba tsapanao ve namako\n'Lay Mpamonjy nijaly mba ho solonao\nIzy namoy ny ainy\nHanavotany ny fiainanao\nTsapako tokoa izany\nFa Satana maningoly hambabo fo ahy\n'Zaho anefa mba maniry\nHampandroso Azy ao am-poko ao"
+    },
+    {
+      "refrain": 1,
+      "lyrics": "Vohay varavarana Izy\nRaiso ao anaty ao Izy\nJeso no avelao hialoha lalana\nAhazoanao fiadanana\nVohay varavarana Izy\nRaiso ao anaty ao Izy\nJeso no avelao hialoha lalana\nAhazoanao fiadanana"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Ho anao 'zay mihaino indray\nKa variana amin'izao fiainana izao\nMihelina ny eto an-tany\nFa any an-danitr'ho mandrakizay\nKa katsaho ny Fanjakany\nMitadiava ny fahamarinany ianao\nDia hanampy anao izany\nAmin'izay rehetra ataonao"
+    },
+    {
+      "refrain": 2,
+      "lyrics": "Vohay varavarana Izy\nRaiso ao anaty ao Izy\nJeso no avelao hialoha lalana\nAhazoanao fiadanana\nVohay varavarana Izy\nRaiso ao anaty ao Izy\nJeso no avelao hialoha lalana\nAhazoanao fiadanana\n\nVohay varavarana Izy\nRaiso ao anaty ao Izy\nJeso no avelao hialoha lalana\nAhazoanao fiadanana\nVohay varavarana Izy\nRaiso ao anaty ao Izy\nJeso no avelao hialoha lalana\nAhazoanao fiadanana"
+    }
+  ]
+},
+{
+  "artiste": "Raharijaona Lucien",
+  "auteur": "",
+  "compositeur": "",
+  "id": "RL_1",
+  "titre": "Eo akaikin'Andriamanitra",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Eo akaikin'Andriamanitra ihany \nNo mahatsara ahy \nNa faly ny tomany. \nHobanjiniko ny lanitra ambony, \nNa ho maloka aza ny andro na ho tony \nNa hikimpy amiko aza ny masoandro \nKa ny nofoko holovin'ny tany \nEo akaikin'Andriamanitra isan'andro, \nVatolampiko hatreto ka hatrany."
+    },
+    {
+      "refrain": 1,
+      "lyrics": "Ny hasoavany toa ony tsy miato, \nMamelona ny fisainana, fanahy,  \nEo akaikiny izaho tsy hisahato \nMandra-patoriako am-parafara vato"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Malemy tokoa ny nofoko mahantra, \nIndrisy reraka, torovana aoka izany. \nBanjiniko indray anefa ny lanitra \nTsy misy itokiako raha eto an-tany. \nIndrisy mihintsana avokoa  \nny vonin-draozy \n'Zay mamerovero fatratra lahy. \nTompo tia ô! akaikinao havaozy \nIty tenako, ny saiko sy fanahy"
+    }
+  ]
+},
+      {
          "artiste":"Groupe Lila",
          "auteur":"Groupe Lila",
          "compositeur":"Groupe Lila",
@@ -2188,6 +2236,208 @@
          "titre":"Fa dia nahoana loatra",
          "tonalite":""
       },
+      {
+  "artiste": "Manda Natts Fie",
+  "auteur": "",
+  "compositeur": "",
+  "id": "MNF_1",
+  "titre": "Soloy vavaka",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Feno tebiteby ny androm-piainanao\nTsy misy fifaliana izay rehetra atao\nFa feno fandroka sy kalalao\nKa tsy mahatsapa fahasambarana ianao\nFa ny manodidina mandatsa sy be lazao\nDia hoy aho amin'ise\nSoloy vavaka, ny vavaka ataovy be dia be"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Isan'andro ianao mila hamoy fo\nNy rotoroton'ny fiainana mandany ron-doha\nNefa tsy mba ahitana izay mahasoa\nNa dia hoe eo anilan'ny Tsitoha\nDia mbola vaka ny saina sy ny fo\nMandinika ireo zava-manjo\nDia hoy aho amin'ise\nSoloy vavaka, ny vavaka ataovy be dia be"
+    },
+    {
+      "couplet": 3,
+      "lyrics": "Omaly ianao manana ny ampy\nFa ankehitriny lany tanteraka ny vatsy\nKa misisika aminao ilay ratsy\nMisisika aminao hindram-bola\nFa ny fiainana tsy mora\nDiniho tsara, ento mora\nSao ho tonga hatreny Antanimora\nKa hoy hatrany aho amin'ise\nAmin'ireo olana marobe\nSoloy vavaka, ny vavaka ataovy be dia be"
+    },
+    {
+      "couplet": 4,
+      "lyrics": "Ilay namanao akaiky, namanao fony kely\nNo indro manary anao ho irery\nNa dia ory aza izy tsy mijery\nDia mahatsiaro ianao, mahatsiaro ho irery\nEny, mahatsapa fa very\nFa be ireo mistery\nDia hoy aho amin'ise\nSoloy vavaka, ny vavaka ataovy be dia be"
+    },
+    {
+      "couplet": 5,
+      "lyrics": "Anio ianao bokan-trosa\nKa izay rehetra mandalo toa mifosa\nSatria ny manana tsy havan'ny osa\nDia hoy aho amin'ise\nSoloy vavaka e, ny vavaka ataovy be dia be"
+    }
+  ]
+},
+{
+  "artiste": "Manda Natts Fie",
+  "auteur": "",
+  "compositeur": "",
+  "id": "MNF_2",
+  "titre": "Miantso anao Jesosy",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Miantso anao Jesosy isan'andro isan'andro.\nKanefa ianao matory foana na alina na atoandro.\nTsy mahatsiaro ny hiantso azy mihintsy ianao.\nAdinonao hoe Izy no nahatoy izao."
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Miantso anao Jesosy isan'andro isan'andro.\nNy fotoanao anefa lany amin'ny rendrarendra sy nahandro.\nN'inona miseho ianao mody fanina.\nKanefa Jesosy miantso foana fa manina."
+    },
+    {
+      "couplet": 3,
+      "lyrics": "Miantso anao Jesosy isan'andro isan'andro.\nDia namaly ianao hoe: raha fivavahana?\nEfa nilaozan'ny toetr'andro.\nNalahelo Jesosy raha nahare izany.\nKanefa mbola miantso ihany."
+    },
+    {
+      "couplet": 4,
+      "lyrics": "Rehefa tsy manam-bola ianao dia miantso Jesosy.\nAleo amin'ny manaraka hoy ianao fa izaho mbola miklosy.\nMalahelo foana Jesosy satria adinonao.\nMitomany foana Izy isan'andro lava izao."
+    },
+    {
+      "couplet": 5,
+      "lyrics": "Miantso foana Jesosy alohan'ny hatory.\nNy tena manjaka ao am-ponao anefa dia ny devoly.\nIndrisy inona no mba azony atao?\nTsy sasatra, tsy kivy Izy miantso anao."
+    },
+    {
+      "couplet": 6,
+      "lyrics": "Anio raha mahare izao ianao.\nDia tsarovy fa miantso anao Jesosy isan'andro lava izao.\nIanao mody fanina, mody tsy mahare.\nMiantso anao Jesosy ka mba valio re."
+    }
+  ]
+},
+{
+  "artiste": "Taratra Fanantenana Tonokalo",
+  "auteur": "",
+  "compositeur": "",
+  "id": "TF_1",
+  "titre": "Ho an'Andriamanitra",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Mba ho any aminin'iza aho moa?\nIza no azoko hitokiana?\nRaha ny eto mampamoy fo\nMampisento, fijaliana"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Eny, aiza no hiantoraka\nTy foko reraka, toloko?\nIza no afaka hangoraka\nSy hanaisotr'ireo fisentoako?"
+    },
+    {
+      "couplet": 3,
+      "lyrics": "Aiza moa aho no hitampify\nIza no azoko ifaharana?\nKa ireo tarainako hidify\nHososohan'ny hasambarana"
+    },
+    {
+      "couplet": 4,
+      "lyrics": "Tompo tia ô, tsy mba manana;\nOlona azoko hitokiana\nF'Ianao no efa nataoko ho namana\nNa fifaliana, fahoriana"
+    },
+    {
+      "couplet": 5,
+      "lyrics": "Ianao mahatsapa hatrany hatrany;\nNy toerana lalovako,\nMampahery ahy raha tomany\nIreny hitoetra ho fahatsiarovako."
+    },
+    {
+      "couplet": 6,
+      "lyrics": "Impiry aho moa niadaladala,\nNilomano anaty ditra\nFa mbola Antsoinao hoe: malala\nTena mampimpitrapitra!"
+    },
+    {
+      "couplet": 7,
+      "lyrics": "Reraka aho, Nomenao hery,\nTolefika aho, Ianao nanarina\nTan-tsitram-po tsy mba an-tery\nMiatraika anaty foko lalina."
+    },
+    {
+      "couplet": 8,
+      "lyrics": "Na mahantra aho, ratsy akanjo;\nTia Ianao, tsy mba nandositra\nTsy nanao kinanjonanjo,\nHo avotro aza, nandoa onitra."
+    },
+    {
+      "couplet": 9,
+      "lyrics": "Ny aretiko, ny rofy;\nTeo Ianao, nanendry ireny\nNy vina sy ny nofinofiko;\nIanao mandahatra azy ombieny"
+    },
+    {
+      "couplet": 10,
+      "lyrics": "Ka ho any amin'iza aho moa?\nEfa nomeko anao ny fo!\nNy tompo hafa tsy tadiaviko,\nF'Ianao mahavita ahy sy ny ho aviko"
+    },
+    {
+      "couplet": 11,
+      "lyrics": "Eny oa, Ianao mahay;\nNy androaniko, ny rahatrizay,\nLay Andriamanitra mandré\nIanao no ataoko ho rehareha"
+    },
+    {
+      "couplet": 12,
+      "lyrics": "Ka hitoetra aho, tsy hioko\nNa ho sedrain'ity finoako\nHatoky Azy aho, tena hiaritra\nVoady ny ahy ny ho an'Andriamanitra"
+    }
+  ]
+},
+{
+  "artiste": "Taratra Fanantenana Tonokalo",
+  "auteur": "",
+  "compositeur": "",
+  "id": "TF_2",
+  "titre": "Ny tena sakaiza",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Ny tena sakaiza tokoa\nDia tia amin'ny andro rehetra,\nMihevitra izay mahasoa;\nAmpiheverana, tsy an-tery setra"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Ny tena sakaiza manampy\nRaha tojo ny fahasahiranana\nMameno izay banga, tsy ampy\nMizara ny eo am-pelantanana"
+    },
+    {
+      "couplet": 3,
+      "lyrics": "Raha sendra ny ora manjombona;\nNy tena sakaiza miombona\nRaha faly dia miara-mitsiky,\nMiara-miomehy, mitokiky"
+    },
+    {
+      "couplet": 4,
+      "lyrics": "Raha ranomaso mijohy;\nNy tava majombona fatratra,\nNy sakaiza tsy mba mahafoy,\nTsy mitandro ny zava-manasatra."
+    },
+    {
+      "couplet": 5,
+      "lyrics": "Ny tena sakaiza manoro;\n'Zay lalana tokony hizorana,\nMampahery ny fo torotoro\nManelo amin'ny ranonorana"
+    },
+    {
+      "couplet": 6,
+      "lyrics": "Izany no tena sakaiza;\n'Lay mananatra sady mitaiza,\nManitsy amin'ny tsy fetezana,\nTsy maneso na manao fiomehezana"
+    },
+    {
+      "couplet": 7,
+      "lyrics": "Sakaiza miara-mamindra,\nMandamina, mahay mandrindra\nRaha potraka tanaty hantsana;\nNy tena sakaiza mitantana"
+    },
+    {
+      "couplet": 8,
+      "lyrics": "Fa Jesosy no tena sakaiza amin'ny sakaiza rehetra;\nTsy mba manilika izany fa 'ngoraka sady mpitsetra,\nRaha iharan'olana ianao, Izy eo aro sy toky,\nMandray anao toy ny zandry, eny ka raiso ho zoky."
+    },
+    {
+      "couplet": 9,
+      "lyrics": "'Lay tia manome tombambidy,\nManonona anao hoe: Malalany\nSakaiza miahy sy miadidy;\nKa hazony mafy ny Tanany."
+    }
+  ]
+},
+{
+  "artiste": "Taratra Fanantenana Tonokalo",
+  "auteur": "",
+  "compositeur": "",
+  "id": "TF_3",
+  "titre": "Tefeo aho Jesosy",
+  "tonalite": "",
+  "paroles": [
+    {
+      "couplet": 1,
+      "lyrics": "Tefeo aho Jesosy a, Amboary ny foko\nIanao azo antoka k'ianao no antsoiko\nIreo adalako rehetra Ifonako\nNy ditrako sy ny fiavonavonako"
+    },
+    {
+      "couplet": 2,
+      "lyrics": "Tefeo aho Jesosy a, Ny saiko fehezo\nManiry anao mafy ka mba akaikezo\nIzaho ilay Ninia nanalavitra Anao\nTefeo aho Jesosy a, Eny, volavolao"
+    },
+    {
+      "couplet": 3,
+      "lyrics": "Tefeo aho Jesosy a, mihintsy kasiho\nMba ho olom-baovao aho manomboka anio\nOmeo fihetrena, Ny izaho mba fongory\nEsory avokoa ireo fanahy mampahory"
+    },
+    {
+      "couplet": 4,
+      "lyrics": "Tefeo aho Jesosy a, mba tolory sandry\nAhafahako miharitra n'inona memy\nAza avela ho sondriana, Na ho tafandry mandry\nNy tanjaka tolory ahy raha malemy."
+    },
+    {
+      "couplet": 5,
+      "lyrics": "Tefeo aho Jesosy a, omeo faharetana\nIaretako sedran'ireo vesatr'entana\nTolory hery, Ny fiainako amboary\nReo ratsy nitoetra rehetra fongary"
+    },
+    {
+      "couplet": 6,
+      "lyrics": "Tefeo aho Jesosy a, mitoera Ato anatiko\nKa mba zay sitrakao no mahafatifatiko\nEny izay maminao no ataoko hafinaritra?\nTefeo aho Jesosy mba handova lanitra a!"
+    }
+  ]
+},
       {
          "artiste":"Groupe Rajo",
          "auteur":"",
